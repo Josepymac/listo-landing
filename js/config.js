@@ -117,7 +117,7 @@ const siteConfig = {
     currency: "Gs.", locale: "es-PY",
     plans: [
       { id: "basic", enabled: true, name: "Plan Básico", subtitle: "Vender y cobrar", description: "Lo esencial para vender, cobrar y llevar el control del día.",
-        price: 159000, oldPrice: null, period: "/mes", note: "Sin permanencia.", popular: false, badge: "", buttonText: "Contratar Básico",
+        price: 149000, oldPrice: null, period: "/mes", note: "Sin permanencia.", popular: false, badge: "", buttonText: "Contratar Básico",
         message: "¡Hola! Me interesa el Plan Básico de Listo System.",
         features: [ y("Productos, categorías y clientes"), y("Punto de venta (POS) con ticket"), y("Historial de ventas, devoluciones y anulaciones"),
           y("Apertura y cierre de caja"), y("Acceso: propietario y vendedor"),
@@ -133,7 +133,7 @@ const siteConfig = {
           y("Cuentas por cobrar y estado de cuenta"), y("Inventario físico y etiquetas"), y("Actualización masiva de precios"),
           n("Delivery con prueba de entrega"), n("Varias cajas y cotización USD/BRL"), y("Soporte por WhatsApp") ] },
       { id: "premium", enabled: true, name: "Plan Premium", subtitle: "Todo incluido", description: "Todos los módulos, varias cajas, delivery y soporte prioritario.",
-        price: 499000, oldPrice: null, period: "/mes", note: "Ideal para varios puntos de venta.", popular: false, badge: "", buttonText: "Contratar Premium",
+        price: 299000, oldPrice: null, period: "/mes", note: "Ideal para varios puntos de venta.", popular: false, badge: "", buttonText: "Contratar Premium",
         message: "¡Hola! Me interesa el Plan Premium de Listo System.",
         features: [ y("Productos, categorías y clientes"), y("Punto de venta (POS) con ticket"), y("Historial de ventas, devoluciones y anulaciones"),
           y("Apertura y cierre de caja"), y("Acceso: propietario, gerente y vendedor"),
